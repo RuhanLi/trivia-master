@@ -1,5 +1,5 @@
 # trivia-master
-A Discord trivia bot.
+A Discord trivia bot
 
 ### Add the bot
 To add TriviaMaster to your server, click [here](https://discordapp.com/oauth2/authorize?client_id=316591030432563202&scope=bot&permissions=19520)
